@@ -1,24 +1,17 @@
-# README
+# To Doアプリ
+JavaScriptとajax学習のために開発したToDoアプリです。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション概要
+新規登録、編集、削除機能が付き、終わったタスクにはチェックボックスに
+チェックを入れることができます。
+ajax通信を行うことができるので、チェックボックスに入れたチェックは
+ページ更新してもそのままついたままにすることができます。
 
-Things you may want to cover:
+# URL
+# 利用方法
+トップページの新規追加からやることを記入してタスクを追加
+タスクを編集したい時は編集ボタンから行う
+削除したい時は削除ボタンから行う
+終わったタスクは左のチェックボックスにチェックを入れる
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
